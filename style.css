@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    font-size: 40px;
+    width: 100%;
+    margin: 1px;
+    box-shadow: 80, 90, 90, darkslategray;
+}
+.Durango{
+    font-size: 40px;
+    background-color: rgba(105, 105, 105, 0);
+    color: whitesmoke;
+
+}
+.Durango:hover{
+    color: lightgray;
+}
+.heading_div{
+    color: lightyellow;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    float: none;
+}
+.Vogue{
+    color: rgb(56, 54, 51);
+    font-size: 28px;
+}
+.Vogue:hover{
+    color: lightgray;
+}
